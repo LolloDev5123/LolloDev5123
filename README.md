@@ -1,6 +1,21 @@
+<h2 align="center">Stats</h2>
+<a href="https://github.com/slow">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=slow" alt="Profile Views Count">
+  </p>
+</a>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LolloDev5123&title_color=1f60ed&text_color=daf7dc&bg_color=131313"/>  
-  <img src="https://github-readme-stats.vercel.app/api?username=LolloDev5123&&show_icons=true&title_color=1f60ed&icon_color=1f60edf&text_color=daf7dc&bg_color=131313"/>  
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api/?username=slow&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slow&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
+    </td>
+  </tr>
+</table>
 </p>
 
 ## Skills
